@@ -1,3 +1,3 @@
 # Elastic-Stack
 
-[](ELK/1.jpg)
+![](ELK/1.jpg)
